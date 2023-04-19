@@ -1,7 +1,8 @@
 <script>
+  import "../app.css";
 </script>
 
-<header class="bg-white">
+<header class="bg-black">
   <nav>
     <div class="logo">Omnihost</div>
     <ul>
