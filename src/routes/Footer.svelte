@@ -1,1 +1,50 @@
-<p>This is the footer</p>
+<script>
+  import "../app.css";
+</script>
+
+<footer class="bg-white dark:bg-gray-900">
+  <div class="mx-auto w-full max-w-screen-xl">
+    <div class="grid grid-cols-2 gap-8 px-4 py-6 lg:py-8 md:grid-cols-4">
+      <div>
+        <h2
+          class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white"
+        >
+          Contact
+        </h2>
+        <ul class="text-gray-500 dark:text-gray-400 font-medium">
+          <li class="mb-4">
+            <a href="#" class=" hover:underline">Nummer</a>
+          </li>
+          <li class="mb-4">
+            <a href="#" class="hover:underline">Mail</a>
+          </li>
+        </ul>
+      </div>
+      <div>
+        <h2
+          class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white"
+        >
+          Follow Us On
+        </h2>
+        <ul class="text-gray-500 dark:text-gray-400 font-medium">
+          <li class="mb-4">
+            <a href="#" class="hover:underline">LinkedIn</a>
+          </li>
+        </ul>
+      </div>
+
+      <div>
+        <h2
+          class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white"
+        >
+          Follow Us On
+        </h2>
+        <ul class="text-gray-500 dark:text-gray-400 font-medium">
+          <li class="mb-4">
+            <a href="#" class="hover:underline">LinkedIn</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
