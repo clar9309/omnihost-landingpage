@@ -12,6 +12,10 @@ export default {
       "tertriary-off-white-50": "#F5F5F5",
       "cool-grey-500": "#A7AEB4",
     },
+    fontFamily: {
+      montserrat: ["Montserrat", "sans-serif"],
+      ivypresto: ["ivypresto-headline", "serif"],
+    },
     plugins: [],
   },
 };
