@@ -2,15 +2,15 @@
   import "../app.css";
 </script>
 
-<section class=" text-marine-blue-800 font-montserrat mt-24 mb-24 sm:block">
-  <div class="flex justify-center gap-44">
+<section class=" text-marine-blue-800 font-montserrat mt-36">
+  <div class="md:flex lg:flex xl:flex justify-center gap-44">
     <div class="block text-center">
       <h5 class="text-6xl mb-2 font-semibold">50%</h5>
-      <p class="opacity-70 text-lg">Faster than documentation</p>
+      <p class="opacity-70 text-lg mb-12">Faster than documentation</p>
     </div>
     <div class="block text-center">
       <h5 class="text-6xl mb-2 font-semibold">Unlimted</h5>
-      <p class="opacity-70 text-lg">Unlimited integrations</p>
+      <p class="opacity-70 text-lg mb-12">Unlimited integrations</p>
     </div>
     <div class="block text-center">
       <h5 class="text-6xl mb-2 font-semibold">66%</h5>

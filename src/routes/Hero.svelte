@@ -18,10 +18,11 @@
         Enhance guest experience and security with omnihost (working progress,
         kommer på noget bedre senere til en brainstorm af en art)
       </p>
+
       <div class="md:inline-flex">
         <a
           href="#"
-          class="inline-flex items-center justify-center px-6 py-2 mr-6 text-base font-medium text-center bg-purple-50 text-primary-purple-300 rounded-lg bg-primary-700 hover:bg-primary-800 md:inline-flex sm:"
+          class="inline-flex items-center justify-center px-6 py-2 lg:mr-6 xl:mr-6 md:mr-2 text-base font-medium text-center bg-purple-50 text-primary-purple-300 rounded-lg bg-primary-700 hover:bg-primary-800 md:inline-flex sm:"
         >
           Watch Demo
           <svg
