@@ -1,5 +1,6 @@
 <script>
   import "../app.css";
+
   let showMenu = false;
   function toggleNavbar() {
     showMenu = !showMenu;

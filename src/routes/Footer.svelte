@@ -1,5 +1,6 @@
 <script>
   import "../app.css";
+
 </script>
 
 <footer class="justify-center bg-primary-purple-300 text-purple-50">
@@ -56,19 +57,6 @@
           </li>
         </ul>
       </div>
-
-      <!-- <div>
-        <h2
-          class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white"
-        >
-          PRIVACY POLICY
-        </h2>
-        <ul class="text-gray-500 dark:text-gray-400 font-medium">
-          <li class="mb-4">
-            <a href="#" class="hover:underline">LinkedIn</a>
-          </li>
-        </ul>
-      </div> -->
 
       <div>
         <h2
