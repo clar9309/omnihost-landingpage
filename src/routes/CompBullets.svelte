@@ -2,7 +2,7 @@
   import "../app.css";
 </script>
 
-<section class=" text-marine-blue-800 font-sans mt-20">
+<section class=" text-marine-blue-800 font-montserrat mt-24 mb-24 sm:block">
   <div class="flex justify-center gap-44">
     <div class="block text-center">
       <h5 class="text-6xl mb-2 font-semibold">50%</h5>
