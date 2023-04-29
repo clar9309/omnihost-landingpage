@@ -7,10 +7,10 @@
     class="grid max-w-screen-xl max-h-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12"
   >
     <div
-      class="mr-auto place-self-center lg:col-span-7 animate-fade-up animate-ease-out animate-duration-[500ms] animate-delay-300"
+      class="mr-auto place-self-center lg:col-span-7 animate-fade-in animate-duration-[500ms] animate-delay-300"
     >
       <h1
-        class="max-w-2xl mb-4 text-4xl tracking-tight leading-none md:text-5xl xl:text-6xl text-purple-100 font-ivypresto animate-flip-up animate-once animate-ease-out animate-duration-[1500ms]"
+        class="max-w-2xl mb-4 text-4xl tracking-tight leading-none md:text-5xl xl:text-6xl text-purple-100 font-ivypresto"
       >
         We digitalize and optimize your hotels systems
       </h1>
@@ -24,7 +24,7 @@
       <div class="md:inline-flex">
         <a
           href="#"
-          class="inline-flex items-center justify-center px-6 py-2 lg:mr-6 xl:mr-6 md:mr-2 text-base font-medium text-center bg-purple-50 text-primary-purple-300 rounded-lg bg-primary-700 hover:bg-primary-800 md:inline-flex sm:"
+          class="inline-flex items-center justify-center px-6 py-2 lg:mr-6 xl:mr-6 md:mr-2 text-base font-medium text-center bg-purple-50 text-primary-purple-300 rounded-lg md:inline-flex sm:"
         >
           Watch Demo
           <svg
@@ -39,8 +39,13 @@
             /></svg
           >
         </a>
+
+        <!-- start -->
+
+        <!-- end -->
+
         <a
-          href="#"
+          href="#contact"
           class="inline-flex items-center justify-center px-10 py-2 text-base font-medium text-purple-50 border border-gray-300 rounded-lg"
         >
           Contact Us
@@ -55,13 +60,13 @@
     </div>
   </div>
   <div class="p-6 flex justify-center">
-    <a href="#">
+    <a href="#combbullets">
       <svg
         xmlns="http://www.w3.org/2000/svg"
         width="42"
         height="42"
         viewBox="0 0 256 256"
-        class="fill-purple-50"
+        class="fill-purple-50 animate-bounce ease-in-out animation-duration-1s"
         ><path
           d="M128 28a100 100 0 1 0 100 100A100.11 100.11 0 0 0 128 28Zm0 192a92 92 0 1 1 92-92a92.1 92.1 0 0 1-92 92Zm34.83-86.83a4 4 0 0 1 0 5.66l-32 32a4 4 0 0 1-5.66 0l-32-32a4 4 0 0 1 5.66-5.66L124 158.34V88a4 4 0 0 1 8 0v70.34l25.17-25.17a4 4 0 0 1 5.66 0Z"
         /></svg

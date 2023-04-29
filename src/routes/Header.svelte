@@ -7,7 +7,9 @@
   }
 </script>
 
-<header class="bg-primary-purple-300 max-w-screen text-purple-50">
+<header
+  class="bg-primary-purple-300 max-w-screen text-purple-50 font-montserrat"
+>
   <div>
     <div>
       <nav
@@ -15,15 +17,14 @@
       >
         <div class="flex items-center justify-between">
           <a
-            class="text-xl font-bold text-gray-800 md:text-2xl hover:text-blue-400"
-            href="/home"
-            >OmniHost
-          </a>
+            class="text-xl font-semibold font-montserrat md:text-2xl"
+            href="/home">OmniHost</a
+          >
           <!-- Mobile menu button -->
           <div on:click={toggleNavbar} class="flex md:hidden">
             <button
               type="button"
-              class="text-gray-800 hover:text-gray-400 focus:outline-none focus:text-gray-400"
+              class=" hover:text-gray-400 focus:outline-none focus:text-gray-400"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -48,16 +49,10 @@
             ? 'flex'
             : 'hidden'}"
         >
-          <a class="text-gray-800 hover:text-blue-400" href="/">Hotels</a>
-          <a class="text-gray-800 hover:text-blue-400" href="#ourservice"
-            >Our Service</a
-          >
-          <a class="text-gray-800 hover:text-blue-400" href="#team"
-            >Team OmniHost</a
-          >
-          <a class="text-gray-800 hover:text-blue-400" href="#contact"
-            >Contact</a
-          >
+          <!-- <a class="font-montserrat" href="/">Hotels</a> -->
+          <a class="font-montserrat" href="#ourservice">Our Service</a>
+          <a class="font-montserrat" href="#team">Team OmniHost</a>
+          <a class="font-montserrat" href="#contact">Contact Us</a>
           <div class="flex my-4 sm:flex md:hidden lg:hidden">
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -89,26 +84,3 @@
     </div>
   </div>
 </header>
-<!-- <header class="bg-primary-purple-300">
-  <nav
-    class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4"
-  >
-    <div class="text-purple-50 font-medium">OmniHost</div>
-    <ul
-      class="font-medium flex flex-col p-4 md:p-0 mt-4 md:flex-row md:space-x-8 md:mt-0 text-purple-50"
-    >
-      <li>
-        <a href="#">Hotels</a>
-      </li>
-      <li>
-        <a href="#">Our Service</a>
-      </li>
-      <li>
-        <a href="#">Team Omnichart</a>
-      </li>
-      <li>
-        <a href="#">Contact</a>
-      </li>
-    </ul>
-  </nav>
-</header> -->

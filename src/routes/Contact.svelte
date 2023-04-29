@@ -3,24 +3,26 @@
 </script>
 
 <!-- Container for demo purpose -->
-<div id="contact" class="container my-24 px-6 mx-auto">
+<div id="contact" class="container md:mt-40 my-24 px-6 mx-auto">
   <!-- Section: Design Block -->
   <section class="mb-32 text-gray-800">
     <div class="flex flex-wrap">
       <div
         class="grow-0 shrink-0 basis-auto md:mb-0 w-full md:w-6/12 px-3 lg:px-6"
       >
-        <h2 class="text-6xl mb-6 text-secondary-marine-blue-300 font-ivypresto">
+        <h2
+          class="text-4xl md:text-6xl mb-6 text-secondary-marine-blue-300 font-ivypresto"
+        >
           Get a demo
         </h2>
-        <p class="mb-6 text-secondary-marine-blue-300 opacity-90">
+        <p
+          class="mb-6 text-secondary-marine-blue-300 opacity-90 text-base md:text-base font-montserrat font-light md:mb-10"
+        >
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium,
-          modi accusantium ipsum corporis quia asperiores dolorem nisi corrupti
-          eveniet dolores ad maiores repellendus enim autem omnis fugiat
-          perspiciatis? Ad, veritatis.
+          modi accusantium ipsum corporis quia.
         </p>
 
-        <div class="flex my-4">
+        <div class="flex my-4 text-base">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="22"
@@ -31,11 +33,14 @@
               d="M19.95 21q-3.225 0-6.287-1.438t-5.425-3.8q-2.363-2.362-3.8-5.425T3 4.05q0-.45.3-.75t.75-.3H8.1q.35 0 .625.225t.325.575l.65 3.5q.05.35-.013.638T9.4 8.45L7 10.9q1.05 1.8 2.625 3.375T13.1 17l2.35-2.35q.225-.225.588-.337t.712-.063l3.45.7q.35.075.575.338T21 15.9v4.05q0 .45-.3.75t-.75.3Z"
             /></svg
           >
-          <a class="text-secondary-marine-blue-300" href="tel:+4526192327">
+          <a
+            class="text-secondary-marine-blue-300 font-light"
+            href="tel:+4526192327"
+          >
             +45 26 19 23 27</a
           >
         </div>
-        <div class="flex">
+        <div class="flex text-base">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="22"
@@ -47,7 +52,7 @@
             /></svg
           >
           <a
-            class="text-secondary-marine-blue-300"
+            class="text-secondary-marine-blue-300 font-light"
             href="mailto: info@omnihost.app"
           >
             info@omnihost.app</a
@@ -57,16 +62,17 @@
       <div
         class="grow-0 shrink-0 basis-auto lg:mb-12 md:mb-0 w-full md:w-6/12 px-3 lg:px-6"
       >
-        <form>
+        <form class="">
           <div class="form-group mb-6 mt-20">
             <input
               type="text"
               class="form-control block
               w-full
               border-secondary-marine-blue-300
+              text-secondary-marine-blue-300
               py-1.5
               text-base
-              font-normal
+              font-light
               bg-transparent
               border-b-2
               transition
@@ -82,10 +88,10 @@
               type="email"
               class="form-control block
               w-full
-       
+              text-secondary-marine-blue-300
               py-1.5
               text-base
-              font-normal
+              font-light
               bg-transparent
               border-b-2
             border-secondary-marine-blue-300
@@ -104,9 +110,10 @@
               block
               w-full
               border-secondary-marine-blue-300
+              text-secondary-marine-blue-300
               py-1.5
               text-base
-              font-normal
+              font-light
               border-b-2
               bg-transparent
               transition

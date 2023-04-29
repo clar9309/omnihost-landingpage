@@ -4,14 +4,10 @@
 
 <footer class="justify-center bg-primary-purple-300 text-purple-50">
   <div class="mx-auto w-full max-w-screen-xl">
-    <div class="grid grid-cols-2 gap-8 px-4 py-6 lg:py-8 md:grid-cols-3">
+    <div class="grid gap-8 px-4 py-6 lg:py-8 md:grid-cols-3">
       <div>
-        <h2
-          class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white"
-        >
-          Contact
-        </h2>
-        <ul class="text-gray-500 dark:text-gray-400">
+        <h2 class="mb-6 text-sm font-semibold uppercase">Contact</h2>
+        <ul class="">
           <li class="mb-4">
             <div class="flex my-4">
               <svg
@@ -45,23 +41,17 @@
         </ul>
       </div>
       <div>
-        <h2
-          class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white"
-        >
-          Follow Us On
-        </h2>
-        <ul class="text-gray-500">
+        <h2 class="mb-6 text-sm font-semibold uppercase">Follow Us On</h2>
+        <ul class="">
           <li class="mb-4">
-            <a href="#" class="hover:underline">LinkedIn</a>
+            <a href="#" class="">LinkedIn</a>
           </li>
         </ul>
       </div>
 
       <div>
-        <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase">
-          ABOUT US
-        </h2>
-        <ul class="text-gray-500">
+        <h2 class="mb-6 text-sm font-semibold uppercase">ABOUT US</h2>
+        <ul class="">
           <li class="mb-4">
             <p>
               Lörem ipsum lalig fossade de mibel kölig. Viss nävöll näst dil.

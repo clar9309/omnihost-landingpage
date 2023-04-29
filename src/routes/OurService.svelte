@@ -1,25 +1,28 @@
-<section id="ourservice" class="bg-white dark:bg-gray-900 mt-20 mb-24">
+<section
+  id="ourservice"
+  class="bg-white dark:bg-gray-900 mt-16 mb-24 mr-4 ml-4"
+>
   <div
     class="gap-8 items-center py-8 px-4 mx-auto max-w-screen-xl xl:gap-16 md:grid md:grid-cols-2 sm:py-16 lg:px-6"
   >
     <img
-      class="w-full dark:hidden"
+      class="w-full dark:hidden mb-12 md:mb-0"
       src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/hero/phone-mockup.png"
       alt=""
     />
     <img
-      class="w-full hidden dark:block"
+      class="w-full hidden dark:block mb-12 md:mb-0"
       src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/hero/phone-mockup.png"
       alt=""
     />
     <div class="mt-4 md:mt-0">
       <h2
-        class="mb-4 text-6xl tracking-tight font-ivypresto text-secondary-marine-blue-300"
+        class="mb-4 md:text-6xl text-4xl tracking-tight font-ivypresto text-secondary-marine-blue-300"
       >
         Our Service
       </h2>
       <p
-        class="mb-6 font-light md:text-lg text-secondary-marine-blue-300 opacity-90 font-montserrat"
+        class="mb-6 font-light text-base md:text-base text-secondary-marine-blue-300 opacity-90 font-montserrat"
       >
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc congue
         pharetra mauris, id laoreet sapien luctus et. Fusce dictum sagittis sem.
@@ -30,7 +33,7 @@
       <div class="flex gap-2">
         <a
           href="#"
-          class="inline-flex items-center justify-center px-4 py-2 lg:mr-6 text-base font-medium text-center text-purple-50 bg-primary-purple-300 rounded-lg"
+          class="inline-flex items-center justify-center px-4 md:px-4 py-2 lg:mr-6 text-base font-medium text-center text-purple-50 bg-primary-purple-300 rounded-lg"
         >
           Watch Demo
           <svg
@@ -47,7 +50,7 @@
         </a>
 
         <a
-          href="#"
+          href="#contact"
           class="inline-flex items-center justify-center px-8 py-2 text-base font-medium border-2 border-gray-300 rounded-lg border-primary-purple-300 text-primary-purple-300"
         >
           Contact Us
