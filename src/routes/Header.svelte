@@ -11,13 +11,13 @@
   <div>
     <div>
       <nav
-        class="container px-6 py-8 mx-auto md:flex md:justify-between md:items-center md:overflow-hidden"
+        class="container px-6 py-8 mx-auto md:flex md:justify-between md:items-center md:overflow-hidden font-montserrat"
       >
         <div class="flex items-center justify-between">
           <a
             class="text-xl font-bold text-gray-800 md:text-2xl hover:text-blue-400"
             href="/home"
-            >Logo
+            >OmniHost
           </a>
           <!-- Mobile menu button -->
           <div on:click={toggleNavbar} class="flex md:hidden">
@@ -44,15 +44,20 @@
 
         <!-- Mobile Menu open: "block", Menu closed: "hidden" -->
         <div
-          class="flex-col mt-8 space-y-4 md:flex md:space-y-0 md:flex-row md:items-center md:space-x-10 md:mt-0 {showMenu
+          class="flex-col mt-8 space-y-4 md:flex md:space-y-0 md:flex-row md:items-center md:space-x-10 md:mt-0 smooth-scroll {showMenu
             ? 'flex'
             : 'hidden'}"
         >
           <a class="text-gray-800 hover:text-blue-400" href="/">Hotels</a>
-          <a class="text-gray-800 hover:text-blue-400" href="/">Our Service</a>
-          <a class="text-gray-800 hover:text-blue-400" href="/">Team OmniHost</a
+          <a class="text-gray-800 hover:text-blue-400" href="#ourservice"
+            >Our Service</a
           >
-          <a class="text-gray-800 hover:text-blue-400" href="/">Contact</a>
+          <a class="text-gray-800 hover:text-blue-400" href="#team"
+            >Team OmniHost</a
+          >
+          <a class="text-gray-800 hover:text-blue-400" href="#contact"
+            >Contact</a
+          >
           <div class="flex my-4 sm:flex md:hidden lg:hidden">
             <svg
               xmlns="http://www.w3.org/2000/svg"

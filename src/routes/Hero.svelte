@@ -4,11 +4,13 @@
 
 <section class="bg-primary-purple-300">
   <div
-    class="grid max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12"
+    class="grid max-w-screen-xl max-h-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12"
   >
-    <div class="mr-auto place-self-center lg:col-span-7">
+    <div
+      class="mr-auto place-self-center lg:col-span-7 animate-fade-up animate-ease-out animate-duration-[500ms] animate-delay-300"
+    >
       <h1
-        class="max-w-2xl mb-4 text-4xl tracking-tight leading-none md:text-5xl xl:text-6xl text-purple-100 font-ivypresto"
+        class="max-w-2xl mb-4 text-4xl tracking-tight leading-none md:text-5xl xl:text-6xl text-purple-100 font-ivypresto animate-flip-up animate-once animate-ease-out animate-duration-[1500ms]"
       >
         We digitalize and optimize your hotels systems
       </h1>

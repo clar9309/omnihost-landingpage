@@ -16,6 +16,6 @@ export default {
       montserrat: ["Montserrat", "sans-serif"],
       ivypresto: ["ivypresto-headline", "serif"],
     },
-    plugins: [],
+    plugins: [require("tailwindcss-animated")],
   },
 };

@@ -1,4 +1,4 @@
-<section class="bg-white dark:bg-gray-900 mt-24 mb-24">
+<section id="ourservice" class="bg-white dark:bg-gray-900 mt-20 mb-24">
   <div
     class="gap-8 items-center py-8 px-4 mx-auto max-w-screen-xl xl:gap-16 md:grid md:grid-cols-2 sm:py-16 lg:px-6"
   >
@@ -14,11 +14,13 @@
     />
     <div class="mt-4 md:mt-0">
       <h2
-        class="mb-4 text-6xl tracking-tight font-ivypresto text-marine-blue-800"
+        class="mb-4 text-6xl tracking-tight font-ivypresto text-secondary-marine-blue-300"
       >
         Our Service
       </h2>
-      <p class="mb-6 font-light md:text-lg text-marine-blue-800">
+      <p
+        class="mb-6 font-light md:text-lg text-secondary-marine-blue-300 opacity-90 font-montserrat"
+      >
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc congue
         pharetra mauris, id laoreet sapien luctus et. Fusce dictum sagittis sem.
         Nulla mattis maximus laoreet. Mauris sit amet quam dignissim, porta nisi
@@ -28,7 +30,7 @@
       <div class="flex gap-2">
         <a
           href="#"
-          class="inline-flex items-center justify-center px-4 py-2 lg:mr-6 text-base font-medium text-center text-purple-50 bg-primary-purple-300 rounded-lg bg-primary-700 hover:bg-primary-800"
+          class="inline-flex items-center justify-center px-4 py-2 lg:mr-6 text-base font-medium text-center text-purple-50 bg-primary-purple-300 rounded-lg"
         >
           Watch Demo
           <svg

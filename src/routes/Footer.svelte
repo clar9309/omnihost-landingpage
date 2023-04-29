@@ -1,6 +1,5 @@
 <script>
   import "../app.css";
-
 </script>
 
 <footer class="justify-center bg-primary-purple-300 text-purple-50">
@@ -59,12 +58,10 @@
       </div>
 
       <div>
-        <h2
-          class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white"
-        >
+        <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase">
           ABOUT US
         </h2>
-        <ul class="text-gray-500 dark:text-gray-400">
+        <ul class="text-gray-500">
           <li class="mb-4">
             <p>
               Lörem ipsum lalig fossade de mibel kölig. Viss nävöll näst dil.

@@ -8,7 +8,7 @@
   import Footer from "./Footer.svelte";
 </script>
 
-<body class="bg-tertriary-off-white-50">
+<body class="bg-tertriary-off-white-50 scroll-smooth">
   <Header />
   <Hero />
   <CompBullets />

@@ -2,7 +2,7 @@
   import "../app.css";
 </script>
 
-<section class="font-montserrat">
+<section id="team" class="font-montserrat">
   <div class="grid justify-center text-center">
     <p class="uppercase text-cool-grey-500 font-semibold mb-2">
       Organisation Chart
