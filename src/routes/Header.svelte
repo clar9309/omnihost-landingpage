@@ -50,9 +50,32 @@
             : 'hidden'}"
         >
           <!-- <a class="font-montserrat" href="/">Hotels</a> -->
-          <a class="font-montserrat" href="#ourservice">Our Service</a>
-          <a class="font-montserrat" href="#team">Team OmniHost</a>
-          <a class="font-montserrat" href="#contact">Contact Us</a>
+
+          <a
+            class="font-montserrat group text-purple-50 transition duration-300"
+            href="#ourservice"
+          >
+            Our Service <span
+              class="block max-w-0 group-hover:max-w-full transition-all duration-500 h-0.5 bg-purple-50"
+            />
+          </a>
+          <a
+            class="font-montserrat group text-purple-50 transition duration-300"
+            href="#team"
+          >
+            Team Omnihost <span
+              class="block max-w-0 group-hover:max-w-full transition-all duration-500 h-0.5 bg-purple-50"
+            />
+          </a>
+          <a
+            class="font-montserrat group text-purple-50 transition duration-300"
+            href="#contact"
+          >
+            Contact Us <span
+              class="block max-w-0 group-hover:max-w-full transition-all duration-500 h-0.5 bg-purple-50"
+            />
+          </a>
+
           <div class="flex my-4 sm:flex md:hidden lg:hidden">
             <svg
               xmlns="http://www.w3.org/2000/svg"

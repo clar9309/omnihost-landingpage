@@ -24,7 +24,7 @@
       <div class="md:inline-flex">
         <a
           href="#"
-          class="inline-flex items-center justify-center px-6 py-2 lg:mr-6 xl:mr-6 md:mr-2 text-base font-medium text-center bg-purple-50 text-primary-purple-300 rounded-lg md:inline-flex sm:"
+          class="inline-flex items-center justify-center px-6 py-2 lg:mr-6 xl:mr-6 md:mr-2 text-base font-medium text-center bg-purple-50 text-primary-purple-300 rounded-lg md:inline-flex opacity-80 hover:opacity-100 hover:ease-in-out"
         >
           Watch Demo
           <svg
@@ -46,7 +46,7 @@
 
         <a
           href="#contact"
-          class="inline-flex items-center justify-center px-10 py-2 text-base font-medium text-purple-50 border border-gray-300 rounded-lg"
+          class="inline-flex items-center justify-center px-10 py-2 text-base font-medium text-purple-50 border border-gray-300 rounded-lg opacity-90 hover:opacity-100 hover:ease-in-out"
         >
           Contact Us
         </a>
@@ -66,7 +66,7 @@
         width="42"
         height="42"
         viewBox="0 0 256 256"
-        class="fill-purple-50 animate-bounce ease-in-out animation-duration-1s"
+        class="fill-purple-50 animate-bounce ease-in-out animation-duration-1s opacity-90 hover:opacity-100 hover:ease-in-out"
         ><path
           d="M128 28a100 100 0 1 0 100 100A100.11 100.11 0 0 0 128 28Zm0 192a92 92 0 1 1 92-92a92.1 92.1 0 0 1-92 92Zm34.83-86.83a4 4 0 0 1 0 5.66l-32 32a4 4 0 0 1-5.66 0l-32-32a4 4 0 0 1 5.66-5.66L124 158.34V88a4 4 0 0 1 8 0v70.34l25.17-25.17a4 4 0 0 1 5.66 0Z"
         /></svg

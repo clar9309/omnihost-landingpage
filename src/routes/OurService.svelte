@@ -22,7 +22,7 @@
         Our Service
       </h2>
       <p
-        class="mb-6 font-light text-base md:text-base text-secondary-marine-blue-300 opacity-90 font-montserrat"
+        class="mb-6 font-light text-base md:text-base text-secondary-marine-blue-300 opacity-85 font-montserrat"
       >
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc congue
         pharetra mauris, id laoreet sapien luctus et. Fusce dictum sagittis sem.
@@ -33,7 +33,7 @@
       <div class="flex gap-2">
         <a
           href="#"
-          class="inline-flex items-center justify-center px-4 md:px-4 py-2 lg:mr-6 text-base font-medium text-center text-purple-50 bg-primary-purple-300 rounded-lg"
+          class="inline-flex items-center justify-center px-4 md:px-4 py-2 lg:mr-6 text-base font-medium text-center text-purple-50 bg-primary-purple-300 rounded-lg opacity-90 hover:opacity-100 hover:ease-in-out"
         >
           Watch Demo
           <svg
@@ -51,7 +51,7 @@
 
         <a
           href="#contact"
-          class="inline-flex items-center justify-center px-8 py-2 text-base font-medium border-2 border-gray-300 rounded-lg border-primary-purple-300 text-primary-purple-300"
+          class="inline-flex items-center justify-center px-8 py-2 text-base font-medium border-2 border-gray-300 rounded-lg border-primary-purple-300 text-primary-purple-300 opacity-90 hover:opacity-100 hover:ease-in-out"
         >
           Contact Us
         </a>

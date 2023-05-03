@@ -129,7 +129,7 @@
 
           <a
             href="#"
-            class=" mt-4 inline-flex items-center justify-center px-6 py-2 mr-6 text-base font-medium text-center text-purple-50 bg-primary-purple-300 rounded-lg bg-primary-700 hover:bg-primary-800"
+            class=" mt-4 inline-flex items-center justify-center px-6 py-2 mr-6 text-base font-medium text-center text-purple-50 bg-primary-purple-300 rounded-lg bg-primary-700 hover:bg-primary-800 opacity-90 hover:opacity-100 hover:ease-in-out"
           >
             Send Message
           </a>
