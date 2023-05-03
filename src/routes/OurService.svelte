@@ -33,7 +33,7 @@
       <div class="flex gap-2">
         <a
           href="#"
-          class="inline-flex items-center justify-center px-4 md:px-4 py-2 lg:mr-6 text-base font-medium text-center text-purple-50 bg-primary-purple-300 rounded-lg opacity-90 hover:opacity-100 hover:ease-in-out"
+          class="inline-flex items-center justify-center px-4 md:px-4 py-2 lg:mr-6 text-base font-medium text-center text-purple-50 bg-primary-purple-300 rounded-lg md:opacity-90 md:hover:opacity-100 md:hover:ease-in-out"
         >
           Watch Demo
           <svg
