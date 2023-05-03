@@ -40,10 +40,6 @@
           >
         </a>
 
-        <!-- start -->
-
-        <!-- end -->
-
         <a
           href="#contact"
           class="inline-flex items-center justify-center px-10 py-2 text-base font-medium text-purple-50 border border-gray-300 rounded-lg md:opacity-90 md:hover:opacity-100 md:hover:ease-in-out"
@@ -52,14 +48,14 @@
         </a>
       </div>
     </div>
-    <div class="hidden lg:mt-0 lg:col-span-5 lg:flex">
+    <div class="visibile mt-12 md:flex lg:mt-0 lg:col-span-5 lg:flex">
       <img
         src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/hero/phone-mockup.png"
         alt="mockup"
       />
     </div>
   </div>
-  <div class="p-6 flex justify-center">
+  <div class=" mt-0 flex justify-center">
     <a href="#combbullets">
       <svg
         xmlns="http://www.w3.org/2000/svg"

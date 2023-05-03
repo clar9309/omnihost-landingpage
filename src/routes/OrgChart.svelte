@@ -21,5 +21,6 @@
       alt=""
       class="grid justify-center md:-translate-y-24 -translate-y-12"
     />
+    <!-- <img src="./src/images/OrgChartMobile.svg" alt="" /> -->
   </div>
 </section>

@@ -51,7 +51,7 @@
 
         <a
           href="#contact"
-          class="inline-flex items-center justify-center px-8 py-2 text-base font-medium border-2 border-gray-300 rounded-lg border-primary-purple-300 text-primary-purple-300 opacity-90 hover:opacity-100 hover:ease-in-out"
+          class="inline-flex items-center justify-center px-6 py-2 text-base font-medium border-2 border-gray-300 rounded-lg border-primary-purple-300 text-primary-purple-300 opacity-90 hover:opacity-100 hover:ease-in-out"
         >
           Contact Us
         </a>
