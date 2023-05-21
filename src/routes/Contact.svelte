@@ -3,7 +3,7 @@
 </script>
 
 <!-- Container for demo purpose -->
-<div id="contact" class="container md:mt-40 my-24 px-6 mx-auto">
+<div id="contact" class="container md:mt-40 my-24 px-6 mx-auto mt-56">
   <!-- Section: Design Block -->
   <section class="mb-32 text-gray-800">
     <div class="flex flex-wrap">
