@@ -1,6 +1,25 @@
+<script>
+  function togglePopup() {
+    var popup = document.getElementById("youtubePopup");
+    popup.classList.toggle("hidden");
+  }
+
+  function smoothScroll(event) {
+    event.preventDefault();
+
+    const targetId = event.target.getAttribute("#compbullets");
+    const targetElement = document.querySelector(targetId);
+
+    window.scrollTo({
+      top: targetElement.offsetTop,
+      behavior: "smooth",
+    });
+  }
+</script>
+
 <section
   id="combbullets"
-  class="mt-24 text-secondary-marine-blue-300 font-montserrat"
+  class="mt-24 text-secondary-marine-blue-300 font-montserrat smooth-scroll"
 >
   <div class="max-w-screen-xl px-4 py-8 mx-auto text-center lg:py-16 lg:px-6">
     <ul

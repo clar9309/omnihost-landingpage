@@ -5,6 +5,18 @@
     var popup = document.getElementById("youtubePopup");
     popup.classList.toggle("hidden");
   }
+
+  function smoothScroll(event) {
+    event.preventDefault();
+
+    const targetId = event.target.getAttribute("#hero");
+    const targetElement = document.querySelector(targetId);
+
+    window.scrollTo({
+      top: targetElement.offsetTop,
+      behavior: "smooth",
+    });
+  }
 </script>
 
 <section class="bg-primary-purple-300 md:h-[42rem]">
