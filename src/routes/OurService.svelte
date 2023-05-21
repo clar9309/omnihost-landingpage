@@ -1,6 +1,6 @@
 <section
   id="ourservice"
-  class="bg-white dark:bg-gray-900 mt-16 mb-24 mr-4 ml-4"
+  class="bg-white dark:bg-gray-900 mt-16 mb-42 mr-4 ml-4"
 >
   <div
     class="gap-8 items-center py-8 px-4 mx-auto max-w-screen-xl xl:gap-16 md:grid md:grid-cols-2 sm:py-16 lg:px-6"
@@ -24,11 +24,11 @@
       <p
         class="mb-6 font-light text-base md:text-base text-secondary-marine-blue-300 opacity-85 font-montserrat"
       >
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc congue
-        pharetra mauris, id laoreet sapien luctus et. Fusce dictum sagittis sem.
-        Nulla mattis maximus laoreet. Mauris sit amet quam dignissim, porta nisi
-        vitae, accumsan dolor. Morbi dictum fermentum sapien nec condimentum.
-        Aenean ut rutrum turpis.
+        Our system streamlines hotel operations by efficiently managing
+        check-in/check-out, long-term item tracking, car management, task
+        user-friendly dashboard offers weather forecasts, deadline alerts, and
+        seamless document management. With anytime, anywhere access, our system
+        optimizes efficiency for smooth hotel workflows.
       </p>
       <div class="flex gap-2">
         <a

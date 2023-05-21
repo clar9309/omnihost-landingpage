@@ -17,8 +17,8 @@
       <p
         class="max-w-2xl mb-6 text-purple-50 lg:mb-8 md:text-lg lg:text-xl font-montserrat font-light"
       >
-        Enhance guest experience and security with omnihost (working progress,
-        kommer på noget bedre senere til en brainstorm af en art)
+        Unlocking Efficiency, Creating Magical Memories: <br /> Where Every Second
+        Counts.
       </p>
 
       <div class="md:inline-flex">

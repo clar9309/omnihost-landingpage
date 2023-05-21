@@ -41,7 +41,7 @@
         </ul>
       </div>
       <div>
-        <h2 class="mb-6 text-sm font-semibold uppercase">Follow Us On</h2>
+        <h2 class="mb-4 text-sm font-semibold uppercase">Follow Us On</h2>
         <ul class="">
           <li class="mb-4">
             <a href="#" class="">LinkedIn</a>
@@ -50,12 +50,14 @@
       </div>
 
       <div>
-        <h2 class="mb-6 text-sm font-semibold uppercase">ABOUT US</h2>
+        <h2 class="mb-4 text-sm font-semibold uppercase">ABOUT US</h2>
         <ul class="">
           <li class="mb-4">
             <p>
-              Lörem ipsum lalig fossade de mibel kölig. Viss nävöll näst dil.
-              Autot somången vasade. <br /> <br /> © OmniHost Systems, 2022
+              Our solution transforms hotel operations, streamlines processes,
+              and enhances guest experiences, taking your business to new
+              heights.
+              <br /> <br /> © OmniHost Systems, 2022
             </p>
           </li>
         </ul>

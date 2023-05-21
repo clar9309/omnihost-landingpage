@@ -3,8 +3,10 @@
 </script>
 
 <section id="team" class="font-montserrat">
-  <div class="grid justify-center text-center bg-primary-purple-300 mt-56">
-    <div class="-translate-y-32">
+  <div
+    class="grid justify-center text-center bg-primary-purple-300 mt-56 md:mt-72"
+  >
+    <div class="-translate-y-32 md:-translate-y-56">
       <p
         class="md:text-base text-xs uppercase text-cool-grey-500 font-semibold mb-2"
       >
@@ -17,14 +19,14 @@
       </h2>
     </div>
 
-    <div class="flex justify-center bg-primary-purple-300 h-96 relative">
+    <div class="flex justify-center relative">
       <img
         src="./src/images/OrgChart.svg"
         alt=""
-        class="grid justify-center md:-translate-y-24 md:visible invisible"
+        class="grid justify-center md:-translate-y-72 md:visible invisible"
       />
       <img
-        class="md:invisible absolute -translate-y-[11rem]"
+        class="md:invisible absolute -translate-y-[10.5rem]"
         src="./src/images/OrgChartMobile.svg"
         alt=""
       />

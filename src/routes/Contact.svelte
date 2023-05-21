@@ -3,7 +3,7 @@
 </script>
 
 <!-- Container for demo purpose -->
-<div id="contact" class="container md:mt-40 my-24 px-6 mx-auto mt-56">
+<div id="contact" class="container md:mt-40 my-24 px-6 mx-auto mt-42">
   <!-- Section: Design Block -->
   <section class="mb-32 text-gray-800">
     <div class="flex flex-wrap">
@@ -13,13 +13,13 @@
         <h2
           class="text-4xl md:text-6xl mb-6 text-secondary-marine-blue-300 font-ivypresto"
         >
-          Get a demo
+          Request a demo
         </h2>
         <p
           class="mb-6 text-secondary-marine-blue-300 opacity-90 text-base md:text-base font-montserrat font-light md:mb-10"
         >
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium,
-          modi accusantium ipsum corporis quia.
+          Sign up for a demo and our team will contact you to schedule a
+          showcase session. 
         </p>
 
         <div class="flex my-4 text-base">
