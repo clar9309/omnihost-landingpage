@@ -4,7 +4,7 @@
 
 <section id="team" class="font-montserrat">
   <div
-    class="grid justify-center text-center bg-primary-purple-300 mt-56 md:mt-72"
+    class="grid justify-center text-center bg-primary-purple-300 md:h-[50rem] h-[33rem] mt-56 md:mt-96"
   >
     <div class="-translate-y-32 md:-translate-y-56">
       <p
@@ -23,10 +23,10 @@
       <img
         src="./src/images/OrgChart.svg"
         alt=""
-        class="grid justify-center md:-translate-y-72 md:visible invisible"
+        class="grid justify-center md:-translate-y-[19rem] md:visible invisible"
       />
       <img
-        class="md:invisible absolute -translate-y-[10.5rem]"
+        class="md:invisible absolute -translate-y-[11rem]"
         src="./src/images/OrgChartMobile.svg"
         alt=""
       />

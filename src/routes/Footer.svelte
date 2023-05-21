@@ -2,13 +2,17 @@
   import "../app.css";
 </script>
 
-<footer class="justify-center bg-primary-purple-300 text-purple-50">
+<footer
+  class="justify-center bg-primary-purple-300 text-purple-50 font-montserrat"
+>
   <div class="mx-auto w-full max-w-screen-xl">
-    <div class="grid gap-8 px-4 py-6 lg:py-8 md:grid-cols-3">
+    <div class="grid gap-8 px-4 py-6 lg:py-8 md:grid-cols-3 mt-6 md:mt-6">
       <div>
-        <h2 class="mb-6 text-sm font-semibold uppercase">Contact</h2>
+        <h2 class="mb-6 md:mt-6 text-sm font-semibold uppercase mt-6">
+          Contact
+        </h2>
         <ul class="">
-          <li class="mb-4">
+          <li class="mb-4 text-secondary-text">
             <div class="flex my-4">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -23,7 +27,7 @@
               <a href="tel:+4526192327"> +45 26 19 23 27</a>
             </div>
           </li>
-          <li class="mb-4">
+          <li class="mb-4 text-secondary-text">
             <div class="flex">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -41,18 +45,20 @@
         </ul>
       </div>
       <div>
-        <h2 class="mb-4 text-sm font-semibold uppercase">Follow Us On</h2>
+        <h2 class="mb-4 md:mt-6 text-sm font-semibold uppercase">
+          Follow Us On
+        </h2>
         <ul class="">
-          <li class="mb-4">
+          <li class="mb-4 text-secondary-text">
             <a href="#" class="">LinkedIn</a>
           </li>
         </ul>
       </div>
 
       <div>
-        <h2 class="mb-4 text-sm font-semibold uppercase">ABOUT US</h2>
+        <h2 class="mb-6 md:mt-6 text-sm font-semibold uppercase">ABOUT US</h2>
         <ul class="">
-          <li class="mb-4">
+          <li class="mb-4 text-secondary-text">
             <p>
               Our solution transforms hotel operations, streamlines processes,
               and enhances guest experiences, taking your business to new
